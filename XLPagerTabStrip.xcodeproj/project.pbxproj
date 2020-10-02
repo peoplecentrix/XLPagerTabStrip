@@ -39,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B5A81892526E6F50030AC18 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		281BFDC01C511C420090C26F /* IndicatorInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IndicatorInfo.swift; sourceTree = "<group>"; };
 		281BFDC21C511F120090C26F /* PagerTabStripBehaviour.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PagerTabStripBehaviour.swift; sourceTree = "<group>"; };
 		287D0A6D1C4B73BD004566D6 /* XLPagerTabStripTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = XLPagerTabStripTests.swift; path = Tests/XLPagerTabStripTests.swift; sourceTree = SOURCE_ROOT; };
@@ -111,6 +112,7 @@
 		28F828731C494B2C00330CF4 = {
 			isa = PBXGroup;
 			children = (
+				0B5A81892526E6F50030AC18 /* Package.swift */,
 				28F8289B1C494BF100330CF4 /* Playground.playground */,
 				28F828971C494B4200330CF4 /* Sources */,
 				28F8287F1C494B2C00330CF4 /* XLPagerTabStrip */,
